@@ -108,3 +108,6 @@ venv.bak/
 
 # Data files
 data/
+
+# Database
+*.db
