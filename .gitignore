@@ -109,5 +109,8 @@ venv.bak/
 # Data files
 data/
 
+# Log files
+logs/
+
 # Database
 *.db
